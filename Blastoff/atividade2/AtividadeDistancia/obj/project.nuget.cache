@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e2wc4eDrd/nP3aYsX5trHt72JrlxserjDEt9dpu0D6w+rxIIgl1ERJOrY90puOlpuiRns4qcVjI56FENgRBHIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Gallo\\Documents\\BLASTOFF\\atividade2\\AtividadeDistancia\\AtividadeDistancia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Gallo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bETzDGJzwB3Du78KMKBDdXZjkil+m3xnxDAzoeqAYkfZ7h6GEqtuMJBWB+LttXqEVpDrMhdCtPW/EWEwlhO6ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Gallo\\Documents\\BLASTOFF\\atividade5\\AtividadeFutebol\\AtividadeFutebol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Gallo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

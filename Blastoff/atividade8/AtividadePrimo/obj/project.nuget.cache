@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6RiiEnzCsY7yQIiUBsNKM4laGcIoXkQzNsa6dExQTPW+SmvVmyg5rqmf79FpHp0RJmeKIyW7355SkLjreD8LjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Gallo\\Documents\\BLASTOFF\\atividade8\\AtividadePrimo\\AtividadePrimo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Gallo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

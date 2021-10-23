@@ -1,0 +1,15 @@
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\bin\Debug\net5.0\AtividadeMultiplos.exe
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\bin\Debug\net5.0\AtividadeMultiplos.deps.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\bin\Debug\net5.0\AtividadeMultiplos.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\bin\Debug\net5.0\AtividadeMultiplos.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\bin\Debug\net5.0\AtividadeMultiplos.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\bin\Debug\net5.0\ref\AtividadeMultiplos.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\bin\Debug\net5.0\AtividadeMultiplos.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\obj\Debug\net5.0\AtividadeMultiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\obj\Debug\net5.0\AtividadeMultiplos.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\obj\Debug\net5.0\AtividadeMultiplos.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\obj\Debug\net5.0\AtividadeMultiplos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\obj\Debug\net5.0\AtividadeMultiplos.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\obj\Debug\net5.0\ref\AtividadeMultiplos.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\obj\Debug\net5.0\AtividadeMultiplos.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeMultiplos\obj\Debug\net5.0\AtividadeMultiplos.genruntimeconfig.cache

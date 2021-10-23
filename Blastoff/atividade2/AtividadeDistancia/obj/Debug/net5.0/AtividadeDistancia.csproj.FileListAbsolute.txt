@@ -1,0 +1,16 @@
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\bin\Debug\net5.0\AtividadeDistancia.exe
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\bin\Debug\net5.0\AtividadeDistancia.deps.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\bin\Debug\net5.0\AtividadeDistancia.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\bin\Debug\net5.0\AtividadeDistancia.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\bin\Debug\net5.0\AtividadeDistancia.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\bin\Debug\net5.0\ref\AtividadeDistancia.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\bin\Debug\net5.0\AtividadeDistancia.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\obj\Debug\net5.0\AtividadeDistancia.csproj.AssemblyReference.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\obj\Debug\net5.0\AtividadeDistancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\obj\Debug\net5.0\AtividadeDistancia.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\obj\Debug\net5.0\AtividadeDistancia.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\obj\Debug\net5.0\AtividadeDistancia.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\obj\Debug\net5.0\AtividadeDistancia.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\obj\Debug\net5.0\ref\AtividadeDistancia.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\obj\Debug\net5.0\AtividadeDistancia.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade2\AtividadeDistancia\obj\Debug\net5.0\AtividadeDistancia.genruntimeconfig.cache

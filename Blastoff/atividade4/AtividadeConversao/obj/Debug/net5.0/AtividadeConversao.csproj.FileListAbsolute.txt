@@ -1,0 +1,16 @@
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\bin\Debug\net5.0\AtividadeConversao.exe
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\bin\Debug\net5.0\AtividadeConversao.deps.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\bin\Debug\net5.0\AtividadeConversao.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\bin\Debug\net5.0\AtividadeConversao.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\bin\Debug\net5.0\AtividadeConversao.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\bin\Debug\net5.0\ref\AtividadeConversao.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\bin\Debug\net5.0\AtividadeConversao.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\obj\Debug\net5.0\AtividadeConversao.csproj.AssemblyReference.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\obj\Debug\net5.0\AtividadeConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\obj\Debug\net5.0\AtividadeConversao.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\obj\Debug\net5.0\AtividadeConversao.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\obj\Debug\net5.0\AtividadeConversao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\obj\Debug\net5.0\AtividadeConversao.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\obj\Debug\net5.0\ref\AtividadeConversao.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\obj\Debug\net5.0\AtividadeConversao.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade4\AtividadeConversao\obj\Debug\net5.0\AtividadeConversao.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\bin\Debug\net5.0\AtividadeFutebol.exe
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\bin\Debug\net5.0\AtividadeFutebol.deps.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\bin\Debug\net5.0\AtividadeFutebol.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\bin\Debug\net5.0\AtividadeFutebol.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\bin\Debug\net5.0\AtividadeFutebol.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\bin\Debug\net5.0\ref\AtividadeFutebol.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\bin\Debug\net5.0\AtividadeFutebol.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\obj\Debug\net5.0\AtividadeFutebol.csproj.AssemblyReference.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\obj\Debug\net5.0\AtividadeFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\obj\Debug\net5.0\AtividadeFutebol.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\obj\Debug\net5.0\AtividadeFutebol.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\obj\Debug\net5.0\AtividadeFutebol.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\obj\Debug\net5.0\AtividadeFutebol.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\obj\Debug\net5.0\ref\AtividadeFutebol.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\obj\Debug\net5.0\AtividadeFutebol.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade5\AtividadeFutebol\obj\Debug\net5.0\AtividadeFutebol.genruntimeconfig.cache

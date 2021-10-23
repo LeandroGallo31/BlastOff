@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rhG3CCn7WJ7yF4tENrVJ8sx3DUU1oxUqeHPQcKAMgm82I/0FVTVXLWrD/IwR3dR8uJyUzfthYRTwRVooiPvr1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Gallo\\Documents\\BLASTOFF\\atividade3\\AtividadeMenorNumero\\AtividadeMenorNumero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Gallo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\bin\Debug\net5.0\AtividadePares.exe
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\bin\Debug\net5.0\AtividadePares.deps.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\bin\Debug\net5.0\AtividadePares.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\bin\Debug\net5.0\AtividadePares.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\bin\Debug\net5.0\AtividadePares.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\bin\Debug\net5.0\ref\AtividadePares.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\bin\Debug\net5.0\AtividadePares.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\obj\Debug\net5.0\AtividadePares.csproj.AssemblyReference.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\obj\Debug\net5.0\AtividadePares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\obj\Debug\net5.0\AtividadePares.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\obj\Debug\net5.0\AtividadePares.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\obj\Debug\net5.0\AtividadePares.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\obj\Debug\net5.0\AtividadePares.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\obj\Debug\net5.0\ref\AtividadePares.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\obj\Debug\net5.0\AtividadePares.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade7\AtividadePares\obj\Debug\net5.0\AtividadePares.genruntimeconfig.cache

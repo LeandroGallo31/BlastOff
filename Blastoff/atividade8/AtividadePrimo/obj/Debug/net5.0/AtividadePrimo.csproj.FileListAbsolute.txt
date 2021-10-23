@@ -1,0 +1,16 @@
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\bin\Debug\net5.0\AtividadePrimo.exe
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\bin\Debug\net5.0\AtividadePrimo.deps.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\bin\Debug\net5.0\AtividadePrimo.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\bin\Debug\net5.0\AtividadePrimo.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\bin\Debug\net5.0\AtividadePrimo.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\bin\Debug\net5.0\ref\AtividadePrimo.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\bin\Debug\net5.0\AtividadePrimo.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\obj\Debug\net5.0\AtividadePrimo.csproj.AssemblyReference.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\obj\Debug\net5.0\AtividadePrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\obj\Debug\net5.0\AtividadePrimo.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\obj\Debug\net5.0\AtividadePrimo.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\obj\Debug\net5.0\AtividadePrimo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\obj\Debug\net5.0\AtividadePrimo.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\obj\Debug\net5.0\ref\AtividadePrimo.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\obj\Debug\net5.0\AtividadePrimo.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade8\AtividadePrimo\obj\Debug\net5.0\AtividadePrimo.genruntimeconfig.cache

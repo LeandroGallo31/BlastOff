@@ -1,0 +1,16 @@
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\bin\Debug\net5.0\AtividadeMedia.exe
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\bin\Debug\net5.0\AtividadeMedia.deps.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\bin\Debug\net5.0\AtividadeMedia.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\bin\Debug\net5.0\AtividadeMedia.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\bin\Debug\net5.0\AtividadeMedia.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\bin\Debug\net5.0\ref\AtividadeMedia.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\bin\Debug\net5.0\AtividadeMedia.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\obj\Debug\net5.0\AtividadeMedia.csproj.AssemblyReference.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\obj\Debug\net5.0\AtividadeMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\obj\Debug\net5.0\AtividadeMedia.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\obj\Debug\net5.0\AtividadeMedia.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\obj\Debug\net5.0\AtividadeMedia.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\obj\Debug\net5.0\AtividadeMedia.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\obj\Debug\net5.0\ref\AtividadeMedia.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\obj\Debug\net5.0\AtividadeMedia.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\Atividade 1\AtividadeMedia\obj\Debug\net5.0\AtividadeMedia.genruntimeconfig.cache

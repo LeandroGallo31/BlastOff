@@ -1,0 +1,16 @@
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\bin\Debug\net5.0\AtividadeMenorNumero.exe
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\bin\Debug\net5.0\AtividadeMenorNumero.deps.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\bin\Debug\net5.0\AtividadeMenorNumero.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\bin\Debug\net5.0\AtividadeMenorNumero.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\bin\Debug\net5.0\AtividadeMenorNumero.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\bin\Debug\net5.0\ref\AtividadeMenorNumero.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\bin\Debug\net5.0\AtividadeMenorNumero.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\obj\Debug\net5.0\AtividadeMenorNumero.csproj.AssemblyReference.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\obj\Debug\net5.0\AtividadeMenorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\obj\Debug\net5.0\AtividadeMenorNumero.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\obj\Debug\net5.0\AtividadeMenorNumero.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\obj\Debug\net5.0\AtividadeMenorNumero.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\obj\Debug\net5.0\AtividadeMenorNumero.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\obj\Debug\net5.0\ref\AtividadeMenorNumero.dll
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\obj\Debug\net5.0\AtividadeMenorNumero.pdb
+C:\Users\Matheus Gallo\Documents\BLASTOFF\atividade3\AtividadeMenorNumero\obj\Debug\net5.0\AtividadeMenorNumero.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6QdHEvmyu8Kd9tCL1G9YDsPC492QD1ePl2CbG90PtcjbM19r0S8YGkc0DiRImtqkilqR89W4UkZFcxJJOdM7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Gallo\\Documents\\BLASTOFF\\atividade5\\AtividadeMultiplos\\AtividadeMultiplos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Gallo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
