@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRpMTMe2p31Fj3ZHzBGCMNXvrHvOODhnKYaSPeAMh5LPSUGCv6dw2+BRtTdPDNxsF0x/dEP8W8mW/j+PWoUr5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Gallo\\Documents\\Teste\\BlastOff\\Blastoff\\atividade11\\AtividadeInterseccao\\AtividadeInterseccao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Gallo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

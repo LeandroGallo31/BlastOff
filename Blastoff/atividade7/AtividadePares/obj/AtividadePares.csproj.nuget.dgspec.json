@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus Gallo\\Documents\\BLASTOFF\\atividade7\\AtividadePares\\AtividadePares.csproj": {}
+    "C:\\Users\\Matheus Gallo\\Documents\\Teste\\BlastOff\\Blastoff\\atividade7\\AtividadePares\\AtividadePares.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus Gallo\\Documents\\BLASTOFF\\atividade7\\AtividadePares\\AtividadePares.csproj": {
+    "C:\\Users\\Matheus Gallo\\Documents\\Teste\\BlastOff\\Blastoff\\atividade7\\AtividadePares\\AtividadePares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus Gallo\\Documents\\BLASTOFF\\atividade7\\AtividadePares\\AtividadePares.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus Gallo\\Documents\\Teste\\BlastOff\\Blastoff\\atividade7\\AtividadePares\\AtividadePares.csproj",
         "projectName": "AtividadePares",
-        "projectPath": "C:\\Users\\Matheus Gallo\\Documents\\BLASTOFF\\atividade7\\AtividadePares\\AtividadePares.csproj",
+        "projectPath": "C:\\Users\\Matheus Gallo\\Documents\\Teste\\BlastOff\\Blastoff\\atividade7\\AtividadePares\\AtividadePares.csproj",
         "packagesPath": "C:\\Users\\Matheus Gallo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus Gallo\\Documents\\BLASTOFF\\atividade7\\AtividadePares\\obj\\",
+        "outputPath": "C:\\Users\\Matheus Gallo\\Documents\\Teste\\BlastOff\\Blastoff\\atividade7\\AtividadePares\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

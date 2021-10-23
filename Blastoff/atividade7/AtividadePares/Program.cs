@@ -14,26 +14,22 @@ namespace AtividadePares
 
             for (int i = 0; i < contador; i++)
             { 
-                Console.WriteLine("Digite os valores");
+                Console.WriteLine("Digite os valores \n");
                 valores[i] = int.Parse(Console.ReadLine());
             }
 
             int[] pares;
-            int length = 1;
-            pares = new int[length];
-            
+            pares = new int[contador];
 
             for (int i = 0; i < contador; i++)
             {
-                int j = 0;
+                
                 if(valores[i] % 2 == 0)
                 {
-                    pares[j] = valores[i];
-                    j++;
-                    length++;
+                    pares[i] = valores[i];
                 }
             }
-            Console.WriteLine("Os valores pares são: " + pares.ToString());
+            Console.WriteLine(String.Join("\n", pares));
         }
     }
 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "js9y6DwbxmH7q0jLhTUJHbIEXz26wDHnvAq+wuQS1yag5sZrSb4sl7FlE69AuxlIIa/cXE+Xe/7WThnMV411mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Gallo\\Documents\\Teste\\BlastOff\\Blastoff\\atividade9\\AtividadeTabuada\\AtividadeTabuada.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Gallo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

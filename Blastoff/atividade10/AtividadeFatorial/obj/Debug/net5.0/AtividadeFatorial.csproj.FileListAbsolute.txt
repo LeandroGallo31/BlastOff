@@ -1,0 +1,16 @@
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\obj\Debug\net5.0\AtividadeFatorial.csproj.AssemblyReference.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\obj\Debug\net5.0\AtividadeFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\obj\Debug\net5.0\AtividadeFatorial.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\obj\Debug\net5.0\AtividadeFatorial.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\obj\Debug\net5.0\AtividadeFatorial.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\bin\Debug\net5.0\AtividadeFatorial.exe
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\bin\Debug\net5.0\AtividadeFatorial.deps.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\bin\Debug\net5.0\AtividadeFatorial.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\bin\Debug\net5.0\AtividadeFatorial.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\bin\Debug\net5.0\AtividadeFatorial.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\bin\Debug\net5.0\ref\AtividadeFatorial.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\bin\Debug\net5.0\AtividadeFatorial.pdb
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\obj\Debug\net5.0\AtividadeFatorial.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\obj\Debug\net5.0\ref\AtividadeFatorial.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\obj\Debug\net5.0\AtividadeFatorial.pdb
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade10\AtividadeFatorial\obj\Debug\net5.0\AtividadeFatorial.genruntimeconfig.cache

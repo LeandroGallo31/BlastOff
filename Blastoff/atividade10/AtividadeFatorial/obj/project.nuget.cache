@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DCtLjJeVIiI/fbqmOI1Zombf2I7m+z4XAZOTktF1RhMbqrW/wu91LOoy6kM/efQmiYlS0tHb9jBJv4teThapXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Gallo\\Documents\\Teste\\BlastOff\\Blastoff\\atividade10\\AtividadeFatorial\\AtividadeFatorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Gallo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

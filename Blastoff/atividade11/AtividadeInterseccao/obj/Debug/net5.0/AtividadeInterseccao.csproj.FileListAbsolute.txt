@@ -1,0 +1,16 @@
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\bin\Debug\net5.0\AtividadeInterseccao.exe
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\bin\Debug\net5.0\AtividadeInterseccao.deps.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\bin\Debug\net5.0\AtividadeInterseccao.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\bin\Debug\net5.0\AtividadeInterseccao.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\bin\Debug\net5.0\AtividadeInterseccao.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\bin\Debug\net5.0\ref\AtividadeInterseccao.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\bin\Debug\net5.0\AtividadeInterseccao.pdb
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\obj\Debug\net5.0\AtividadeInterseccao.csproj.AssemblyReference.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\obj\Debug\net5.0\AtividadeInterseccao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\obj\Debug\net5.0\AtividadeInterseccao.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\obj\Debug\net5.0\AtividadeInterseccao.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\obj\Debug\net5.0\AtividadeInterseccao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\obj\Debug\net5.0\AtividadeInterseccao.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\obj\Debug\net5.0\ref\AtividadeInterseccao.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\obj\Debug\net5.0\AtividadeInterseccao.pdb
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade11\AtividadeInterseccao\obj\Debug\net5.0\AtividadeInterseccao.genruntimeconfig.cache

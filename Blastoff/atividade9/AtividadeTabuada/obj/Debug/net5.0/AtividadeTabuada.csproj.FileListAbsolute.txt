@@ -1,0 +1,16 @@
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\bin\Debug\net5.0\AtividadeTabuada.exe
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\bin\Debug\net5.0\AtividadeTabuada.deps.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\bin\Debug\net5.0\AtividadeTabuada.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\bin\Debug\net5.0\AtividadeTabuada.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\bin\Debug\net5.0\AtividadeTabuada.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\bin\Debug\net5.0\ref\AtividadeTabuada.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\bin\Debug\net5.0\AtividadeTabuada.pdb
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\obj\Debug\net5.0\AtividadeTabuada.csproj.AssemblyReference.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\obj\Debug\net5.0\AtividadeTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\obj\Debug\net5.0\AtividadeTabuada.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\obj\Debug\net5.0\AtividadeTabuada.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\obj\Debug\net5.0\AtividadeTabuada.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\obj\Debug\net5.0\AtividadeTabuada.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\obj\Debug\net5.0\ref\AtividadeTabuada.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\obj\Debug\net5.0\AtividadeTabuada.pdb
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade9\AtividadeTabuada\obj\Debug\net5.0\AtividadeTabuada.genruntimeconfig.cache

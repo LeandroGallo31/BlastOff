@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2esjzalg9kDObgjGRpPo0IxmB/aGcFWsvu1QSm+jG+n6j7ISIBSPasaevnmco5oSFdRFICoYaspTirzcN/33Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Gallo\\Documents\\Teste\\BlastOff\\Blastoff\\atividade12\\AtividadeConcatenacao\\AtividadeConcatenacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Gallo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

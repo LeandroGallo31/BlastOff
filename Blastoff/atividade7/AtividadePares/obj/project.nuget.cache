@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vlJAXdpk8QbYJnlX/t/xya6sOzTd5M7CCFyWEr6Vvc2nM5ft5DWjizFZlluklYw5b3qLMqCUbKsuObe4cD7EAA==",
+  "dgSpecHash": "co6Joz/ihLHjVmj5fc/B5FaMwtsuZrvxfbN/Oxmg+6tYUCMWg5lI8c1YhJvgJNaQ23xcpKj5l9RRs5fNCeheTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matheus Gallo\\Documents\\BLASTOFF\\atividade7\\AtividadePares\\AtividadePares.csproj",
+  "projectFilePath": "C:\\Users\\Matheus Gallo\\Documents\\Teste\\BlastOff\\Blastoff\\atividade7\\AtividadePares\\AtividadePares.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus Gallo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
   ],

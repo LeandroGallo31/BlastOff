@@ -1,0 +1,16 @@
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\bin\Debug\net5.0\AtividadeConcatenacao.exe
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\bin\Debug\net5.0\AtividadeConcatenacao.deps.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\bin\Debug\net5.0\AtividadeConcatenacao.runtimeconfig.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\bin\Debug\net5.0\AtividadeConcatenacao.runtimeconfig.dev.json
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\bin\Debug\net5.0\AtividadeConcatenacao.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\bin\Debug\net5.0\ref\AtividadeConcatenacao.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\bin\Debug\net5.0\AtividadeConcatenacao.pdb
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\obj\Debug\net5.0\AtividadeConcatenacao.csproj.AssemblyReference.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\obj\Debug\net5.0\AtividadeConcatenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\obj\Debug\net5.0\AtividadeConcatenacao.AssemblyInfoInputs.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\obj\Debug\net5.0\AtividadeConcatenacao.AssemblyInfo.cs
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\obj\Debug\net5.0\AtividadeConcatenacao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\obj\Debug\net5.0\AtividadeConcatenacao.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\obj\Debug\net5.0\ref\AtividadeConcatenacao.dll
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\obj\Debug\net5.0\AtividadeConcatenacao.pdb
+C:\Users\Matheus Gallo\Documents\Teste\BlastOff\Blastoff\atividade12\AtividadeConcatenacao\obj\Debug\net5.0\AtividadeConcatenacao.genruntimeconfig.cache
