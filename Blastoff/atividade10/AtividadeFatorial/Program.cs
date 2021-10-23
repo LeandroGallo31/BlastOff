@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AtividadeFatorial
+﻿namespace AtividadeFatorial
 {
     internal class Program
     {
